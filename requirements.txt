@@ -1,0 +1,8 @@
+aotools
+astropy
+numpy
+matplotlib
+tqdm
+pytest
+nbval
+pre-commit
