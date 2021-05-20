@@ -1,0 +1,5 @@
+numpy ~=1.11
+matplotlib ~= 3.3
+tqdm ~= 4.50
+astropy ~= 4.2
+aotools ~= 1.0
